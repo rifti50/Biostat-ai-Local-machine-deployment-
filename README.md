@@ -8,6 +8,7 @@ BiostatsAI is a portable AI tutor for MSc Statistics biostatistics students.
 1. Create the package using `python biostat_ai_app.py --create-package`
 2. Install required dependencies for building the app using `pip install -r portable_requirements.txt`
 3. Build the executable using `python build_portable_biostat.py`
+4. The executable file will be found in `dist` directory 
 ## Installation on Any Drive
 1. Copy BiostatsAI folder to desired drive (C:, D:, P:, etc.)
 2. Double-click BiostatsAI.exe
