@@ -1,0 +1,9 @@
+# Icon File Instructions
+
+To complete the build, you need an icon file:
+
+1. Create or download a .ico file
+2. Name it "icon.ico"  
+3. Place it in the same directory
+
+You can skip this step - build works without icon.

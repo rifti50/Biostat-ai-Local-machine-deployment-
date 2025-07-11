@@ -1,0 +1,14 @@
+{
+  "installation_path": "Z:\\All about python\\New folder\\dist",
+  "install_date": "2025-07-11T21:36:53.833012",
+  "version": "1.0",
+  "ollama_path": null,
+  "model_name": "llama3.1:8b",
+  "temperature": 0.3,
+  "processed_pdfs": [],
+  "user_preferences": {
+    "auto_process": true,
+    "dark_mode": false,
+    "backup_enabled": true
+  }
+}
