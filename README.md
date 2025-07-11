@@ -2,7 +2,7 @@
 
 
 ## Overview
-BiostatsAI is a portable AI tutor for MSc Statistics biostatistics students.
+It is a portable BiostatsAI tutor for MSc Statistics biostatistics students. But it can solve other statistical courses if you install it in a separate directory and train separately.
 
 ## First, build your executable file to arrange the local AI and privileges
 1. Create the package using `python biostat_ai_app.py --create-package`
@@ -23,7 +23,7 @@ BiostatsAI is a portable AI tutor for MSc Statistics biostatistics students.
 - Your data: Variable
 
 ## Uninstalling After Exams
-1. Use built-in uninstaller in app
+1. Use built-in uninstaller in the app
 2. Or simply delete the entire folder
 3. No registry entries or system files
 
